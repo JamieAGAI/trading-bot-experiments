@@ -1,0 +1,17 @@
+.env
+.env.*
+venv/
+.venv/
+__pycache__/
+*.keras
+*.h5
+*.pkl
+*.zip
+*.csv
+*.parquet
+*.db
+*.log
+*.jsonl
+!**/sample_logs/*.sample.jsonl
+data/
+logs/
